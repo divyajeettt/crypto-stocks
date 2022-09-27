@@ -2,7 +2,7 @@
 
 ## About crypto-stocks
 
-crypto-stocks is a project that uses [polygon.io](https://polygon.io/) and [Alpha Vantage](https://www.alphavantage.co/) APIs to fetch news and visualize stock and cryptocurrency data. It was developed in `March 2020` as a Project Assignment for the course [CSE101](https://github.com/divyajeettt/CSE101).
+crypto-stocks is a project that uses [polygon.io](https://polygon.io/) and [Alpha Vantage](https://www.alphavantage.co/) APIs to fetch news and visualize stock and cryptocurrency data. It was developed in `March 2020` as a Project Assignment for the course <b>[CSE101: *Introduction to Programming*](http://techtree.iiitd.edu.in/viewDescription/filename?=CSE101)</b>.
 
 ## Features of the project
 

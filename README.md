@@ -18,6 +18,13 @@ Gather and visualize stock data such as *Opening Prices*, *Closing Prices*, *Max
 
 Gather and visualize cryptocurrency data such as *Opening Value*, *Closing Value*, *Maximum Market Cap*, and others, for a selected crypto. The currency in which the data is displayed (default USD) can be convereted to any other, using the latest price rate.
 
+## Run
+
+To use, clone the repository on your device, navigate to the folder, and execute:
+```
+python3 main.py
+```
+
 ## References
 
 - [polygon.io (YouTube)](https://youtu.be/RLtEiDNKfkU)

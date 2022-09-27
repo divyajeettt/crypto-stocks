@@ -18,6 +18,15 @@ Gather and visualize stock data such as *Opening Prices*, *Closing Prices*, *Max
 
 Gather and visualize cryptocurrency data such as *Opening Value*, *Closing Value*, *Maximum Market Cap*, and others, for a selected crypto. The currency in which the data is displayed (default USD) can be convereted to any other, using the latest price rate.
 
+## Use your own API Keys
+
+To generate your own API keys to use the project, visit [polygon.io](https://polygon.io/) and [Alpha Vantage](https://www.alphavantage.co/). To use the generated keys, add the following lines to `main.py` as a header:
+
+```python
+POLYGON_API_KEY: str = <your-polygon.io-api-key>
+ALPHA_API_KEY: str = <your-alpha-vantage-api-key>
+```
+
 ## Run
 
 To use, clone the repository on your device, navigate to the folder, and execute:
